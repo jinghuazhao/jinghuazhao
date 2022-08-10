@@ -1,4 +1,4 @@
 # Welcome!
 
 - I am currently working a multiomics analysis.
-- During various projects I also collated information for reproducible research.
+- When implementing various projects I also collated information here for reproducible research.
