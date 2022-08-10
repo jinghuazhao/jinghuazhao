@@ -1,3 +1,5 @@
+![](gansubaiyin.png)
+
 # Welcome!
 
 - I am currently working on multiomics analysis with a focus on proteogenomics.
