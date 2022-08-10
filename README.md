@@ -1,4 +1,4 @@
-![](gansubaiyin.png)
+![](gansubaiyin.svg)
 
 # Welcome!
 
