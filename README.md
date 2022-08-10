@@ -1,4 +1,4 @@
-![](gansubaiyin.svg)
+![](https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin.svg)
 
 # Welcome!
 
