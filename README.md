@@ -1,4 +1,4 @@
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin.svg" align="right" height="100" width="150" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin.svg" align="right" height="200" width="250" />
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
 # Welcome!
