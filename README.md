@@ -18,4 +18,4 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=30:text='CASP14-t1091':fontcol
 
 It does look like someone struggling in the marsh, doesn't it?
 
-![CASP14-t1091.gif](CASP14-t1091.gif)
+![CASP14-t1091.gif](CASP14-t1091-text.gif)
