@@ -6,12 +6,11 @@
 
 - I am currently working on multiomics analysis with a focus on proteogenomics.
 - Some generic features of the implementation are wrapped up for reproducible research.
-- The following monster is generated from the *Nature* AlphaFold paper (https://doi.org/10.1038/s41586-021-03819-2) with this script,
+- The following monster is generated from the *Nature* AlphaFold paper (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
 ```bash
 ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s2.mp4
-ffmpeg -i s2.mp4 -f gif s2.gif
-mv s2.gif CASP14-t1091.gif
+ffmpeg -i s2.mp4 -f gif CASP14-t1091.gif
 ``` 
 
 It does look like someone struggling in the marsh, doesn't it?
