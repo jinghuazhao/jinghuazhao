@@ -4,6 +4,9 @@
 
 - I am currently working on multiomics analysis with a focus on proteogenomics.
 - Some generic features of the implementation are wrapped up for reproducible research.
+
+  <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
+
 - The following monster is generated from the *Nature* AlphaFold paper (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
 ```bash
@@ -17,5 +20,3 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcol
 It is someone struggling in the marsh, isn't it?
 
 ![CASP14-t1091.gif](CASP14-t1091-text.gif)
-
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
