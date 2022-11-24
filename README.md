@@ -1,5 +1,3 @@
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
-
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="250" width="250" />
 
 # Welcome!
@@ -19,3 +17,5 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcol
 It is someone struggling in the marsh, isn't it?
 
 ![CASP14-t1091.gif](CASP14-t1091-text.gif)
+
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
