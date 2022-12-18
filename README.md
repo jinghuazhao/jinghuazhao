@@ -16,6 +16,6 @@ ffmpeg -i s4.gif -s 640x360 CASP14-t1091.gif
 ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcolor=red:x=25:y=30" CASP14-t1091-text.gif
 ``` 
 
-Another beast to train?
+Another beast to train in town ...
 
 ![CASP14-t1091.gif](CASP14-t1091-text.gif)
