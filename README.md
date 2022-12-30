@@ -7,7 +7,7 @@
 - I am currently working on multiomics analysis with a focus on proteogenomics.
 - Some generic features of the implementation are wrapped up for reproducible research.
 
-## Another beast in training in town ...
+## Another beast being trained in town ...
 
 It is generated from the *Nature* AlphaFold paper (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
