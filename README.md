@@ -9,7 +9,9 @@
 
 ## Another beast being trained in town ...
 
-It is generated from the *Nature* AlphaFold paper (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
+![CASP14-t1091.gif](CASP14-t1091-text.gif)
+
+as generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
 ```bash
 ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
@@ -18,5 +20,3 @@ ffprobe s4.gif
 ffmpeg -i s4.gif -s 640x360 CASP14-t1091.gif
 ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcolor=red:x=25:y=30" CASP14-t1091-text.gif
 ``` 
-
-![CASP14-t1091.gif](CASP14-t1091-text.gif)
