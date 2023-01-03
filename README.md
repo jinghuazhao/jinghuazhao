@@ -1,4 +1,4 @@
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="150" width="150" />
 
 # Welcome!
 
@@ -11,7 +11,7 @@
 
 as generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="150" width="150" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
 ```bash
 ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
