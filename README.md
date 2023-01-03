@@ -1,4 +1,4 @@
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="250" width="250" />
 
 # Welcome!
 
@@ -19,4 +19,4 @@ ffmpeg -i s4.gif -s 640x360 CASP14-t1091.gif
 ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcolor=red:x=25:y=30" CASP14-t1091-text.gif
 ``` 
 
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="250" width="250" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
