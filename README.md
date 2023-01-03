@@ -8,7 +8,6 @@
 ## Another beast being trained in town ...
 
 ![CASP14-t1091.gif](CASP14-t1091-text.gif)
-
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
 as generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
