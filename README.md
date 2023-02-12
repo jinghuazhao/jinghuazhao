@@ -2,8 +2,7 @@
 
 # Hello, welcome!
 
-- I am currently working on multiomics analysis with a focus on proteogenomics.
-  - Another beast being trained in town ...
+- I am currently working on multiomics analysis with a focus on proteogenomics. **Another beast being trained in town ...**
     ![CASP14-t1091.gif](CASP14-t1091-text.gif)
     <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
