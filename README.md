@@ -7,7 +7,7 @@
     <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 - Some generic features of the implementation are wrapped up for reproducible research.
 
-[^1]: CASP14-t1091 generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
+[^1]: generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
     ```bash
     ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
