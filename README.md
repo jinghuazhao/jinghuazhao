@@ -2,12 +2,11 @@
 
 # Hello, welcome!
 
-- I am currently working on multiomics analysis with a focus on proteogenomics. **Another beast being trained in town ...**
+- I am currently working on multiomics analysis with a focus on proteogenomics.
     ![CASP14-t1091.gif](CASP14-t1091-text.gif)
     <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
-    as generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
-
+    **Another beast being trained in town ...** generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
     ```bash
     ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
     ffmpeg -i s4.mp4 -f gif s4.gif
