@@ -7,7 +7,7 @@
     ![Another beast being trained in town...](CASP14-t1091-text.gif)
     <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
-    The figure is generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
+    The figure above is generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
     ```bash
     ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
