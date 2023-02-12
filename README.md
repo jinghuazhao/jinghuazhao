@@ -2,11 +2,10 @@
 
 # Hello, welcome!
 
+- I strive for reproducible research through wrapping up some generic features of implementation.
 - I am currently working on multiomics analysis with a focus on proteogenomics[^1].
     ![Another beast being trained in town...](CASP14-t1091-text.gif)
     <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
-- Some generic features of the implementation are wrapped up for reproducible research.
-
 [^1]: generated from (https://doi.org/10.1038/s41586-021-03819-2) Supplementary video 4 with script,
 
     ```bash
