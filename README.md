@@ -7,10 +7,10 @@ I currently work on multiomics analysis in particular proteogenomics, whose gene
 ![Another beast being trained in town...](CASP14-t1091-text.gif)
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
 
-The figure above is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with script,
+The figure above is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with the following script,
+calling modules as documented <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>
 
 ```bash
-# https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html
 module load ceuadmin/ffmpeg
 ffmpeg -i jumper21s4.mp4 -ss 8 -t 8 s4.mp4
 ffmpeg -i s4.mp4 -f gif s4.gif
