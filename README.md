@@ -2,7 +2,7 @@
 
 # Hello, welcome!
 
-I strive for reproducible research through implementation of generic features from work; I am currently working on multiomics analysis in particular proteogenomics.
+I currently work on multiomics analysis in particular proteogenomics, whose generic features are collated for reproducible research.
 
 ![Another beast being trained in town...](CASP14-t1091-text.gif)
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/jhz-50.png" align="right" />
