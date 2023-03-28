@@ -5,7 +5,7 @@
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
 ![Another beast being trained in town...](CASP14-t1091-text.gif)
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" />
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" width=20 height=18>
 
 Figure shown above is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with 
 `ffmpeg` in a module as documented at <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>.
