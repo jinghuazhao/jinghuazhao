@@ -4,7 +4,7 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
-The figure for CASP14-t1091 is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with `ffmpeg` in a module as documented at <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>.
+The figure below for CASP14-t1091 is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with `ffmpeg` in a module as documented at <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>.
 
 ```bash
 module load ceuadmin/ffmpeg
