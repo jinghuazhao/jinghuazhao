@@ -4,7 +4,7 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
-The figure below for CASP14-t1091 is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with `ffmpeg` in a module as documented at <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>.
+The figure for CASP14-t1091 below is generated from https://doi.org/10.1038/s41586-021-03819-2 (Supplementary video 4) with `ffmpeg` in a module as documented at <https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html>.
 
 ```bash
 module load ceuadmin/ffmpeg
@@ -16,4 +16,4 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcol
 ```
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="left" height=300 width=500>
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=300 width=300>
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
