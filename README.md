@@ -1,4 +1,4 @@
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="150" width="150" />
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="250" width="250" />
 
 # Hello, welcome!
 
