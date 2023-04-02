@@ -3,7 +3,7 @@
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
 ![Another beast being trained in town...](CASP14-t1091-text.gif)
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" width=100 height=100>
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" width=120 height=120>
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="300" width="300" />
 
