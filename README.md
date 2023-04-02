@@ -16,5 +16,4 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcol
 ```
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="left" height=350 width=650>
-
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height="300" width="300">
