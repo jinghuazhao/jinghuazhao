@@ -8,9 +8,9 @@ I currently work on proteogenomic analysis, whose generic features are collected
 
 ---
 
-[^t1091]: **CASP14-t1091**
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
 
-    <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
+[^t1091]: **CASP14-t1091**
 
     The figure is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
     <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
