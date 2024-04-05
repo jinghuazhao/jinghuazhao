@@ -10,9 +10,9 @@ I currently work on proteogenomic analysis, whose generic features are collected
 
 [^t1091]: **CASP14-t1091**
 
-    The first figure is from CCTV4 covering Baiyin, Gansu province, China.
+    The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
 
-    The second figure is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
+    The protein diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
     <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
 
     ```bash
