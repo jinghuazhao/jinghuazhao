@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-I currently work on proteogenomic analysis, whose generic features are collected for reproducible research[^t1091].
+I currently work on proteogenomic analysis[^t1091], whose generic features are collected for reproducible research.
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="left" height=280 width=280>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
