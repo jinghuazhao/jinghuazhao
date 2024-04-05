@@ -4,11 +4,10 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research[^t1091].
 
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="left" height=600 width=1000>
 
 ---
-
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
 
 [^t1091]: **CASP14-t1091**
 
