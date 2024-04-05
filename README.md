@@ -4,9 +4,7 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research[^t1091].
 
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="left" height=450 width=800>
-
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="left" height=600 width=1000>
 
 [^t1091]: **CASP14-t1091**
 
@@ -25,3 +23,5 @@ I currently work on proteogenomic analysis, whose generic features are collected
     Additional information is available from "Critical Assessment of protein Structure Prediction (CASP)", <https://predictioncenter.org/casp14/>
 
     See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. *Science* (New York, N.Y.) **379**(6637): 1123-1130, <https://doi.org/10.1126/science.ade2574>.
+
+    <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
