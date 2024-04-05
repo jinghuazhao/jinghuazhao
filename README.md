@@ -2,7 +2,7 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research[^t1091].
 
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="left" width=150 height=150>
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="rightt" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="center" height=280 width=280>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" align="right" height=600 width=1000>
 
