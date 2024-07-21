@@ -7,10 +7,14 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
 <div id="cambridge-ceu">
-  <a href="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true" target="_blank">
-    <img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
-  </a>
+  <img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true" onclick="openImage(this)">
 </div>
+
+<script>
+function openImage(imgElement) {
+  alert("Image clicked!"); // Placeholder for now
+}
+</script>
 
 <details> 
 <summary>SVG code</summary>
