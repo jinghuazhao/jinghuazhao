@@ -1,4 +1,4 @@
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" width=150 height=150>
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 
 # Hello, welcome!
 
