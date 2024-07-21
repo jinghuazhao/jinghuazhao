@@ -10,6 +10,11 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 
 <img id="cambridge-ceu" src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
 
+<div id="cambridge-ceu">
+  <!-- Content related to the Cambridge-CEU diagram, including the image -->
+  <img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
+</div>
+
 <details> 
 <summary>SVG code</summary>
 
