@@ -6,6 +6,8 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
+This is the diagram of cambridge-ceu.
+
 ![alt text](https://tinyurl.com/58aaeymr)
 
 <details> 
