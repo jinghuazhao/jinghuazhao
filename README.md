@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-I currently work on proteogenomic analysis[^t1091], whose generic features are collected for reproducible research.
+I currently work on proteogenomic analysis[^t1091], whose generic features are collected for reproducible research. Also included here is [cambridge-ceu diagram](#cambridg-ceu).
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="left" height=280 width=280>
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
