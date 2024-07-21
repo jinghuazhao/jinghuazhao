@@ -8,7 +8,7 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 
 This is the diagram of cambridge-ceu.
 
-![alt text](img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true")
+![alt text](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true)
 
 <details> 
 <summary>SVG code</summary>
