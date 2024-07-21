@@ -6,42 +6,7 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
-<div id="cambridge-ceu">
-  <img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true" onclick="openImage(this)">
-</div>
-
-<script>
-function openImage(imgElement) {
-  // 1. Create Lightbox/Modal Elements
-  const modal = document.createElement('div');
-  modal.id = 'imageModal';
-  modal.style.position = 'fixed';
-  modal.style.top = '0';
-  modal.style.left = '0';
-  modal.style.width = '100%';
-  modal.style.height = '100%';
-  modal.style.backgroundColor = 'rgba(0, 0, 0, 0.8)'; // Semi-transparent background
-  modal.style.display = 'flex';
-  modal.style.alignItems = 'center';
-  modal.style.justifyContent = 'center';
-
-  const img = document.createElement('img');
-  img.src = imgElement.src;
-  img.style.maxWidth = '90%';
-  img.style.maxHeight = '90%';
-  modal.appendChild(img);
-
-  // 2. Close Functionality
-  modal.onclick = function() {
-    document.body.removeChild(modal);
-  };
-
-  // 3. Append to Body
-  document.body.appendChild(modal);
-}
-</script>
-<details> 
-<summary>SVG code</summary>
+[![Alt text](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true)](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true)
 
 ```
 @sample.svg
