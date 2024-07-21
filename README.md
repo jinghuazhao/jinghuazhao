@@ -6,7 +6,7 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
-![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)
+![alt text](https://tinyurl.com/58aaeymr)
 
 <details> 
 <summary>SVG code</summary>
