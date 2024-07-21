@@ -23,11 +23,11 @@ More information is available from "Critical Assessment of protein Structure Pre
 
 See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. *Science* (New York, N.Y.) **379**(6637): 1123-1130, <https://doi.org/10.1126/science.ade2574>.
 
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="left" height=280 width=280>
+
 The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
 
 </details>
-
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
 
 Additional repositories can also be activated from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
 
