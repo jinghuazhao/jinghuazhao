@@ -3,13 +3,10 @@
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="bottom" width=150 height=150>
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
 <details>
-The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
-
 The protein diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
 <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
 
@@ -25,6 +22,11 @@ ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcol
 More information is available from "Critical Assessment of protein Structure Prediction (CASP)", <https://predictioncenter.org/casp14/>
 
 See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. *Science* (New York, N.Y.) **379**(6637): 1123-1130, <https://doi.org/10.1126/science.ade2574>.
+
+The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
+
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
+
 </details>
 
 Additional repositories can also be activated from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
