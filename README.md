@@ -1,8 +1,8 @@
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="right" width=150 height=150>
+
 # Hello, welcome!
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
-
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="bottom" width=150 height=150>
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
