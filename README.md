@@ -7,8 +7,6 @@ I currently work on proteogenomic analysis, whose generic features are collected
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
 <details>
-**CASP14-t1091**
-
 The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
 
 The protein diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
@@ -23,7 +21,7 @@ ffmpeg -i s4.gif -s 640x360 CASP14-t1091.gif
 ffmpeg -i CASP14-t1091.gif -vf "drawtext=fontsize=20:text='CASP14-t1091':fontcolor=red:x=25:y=30" CASP14-t1091-text.gif
 ```
 
-Additional information is available from "Critical Assessment of protein Structure Prediction (CASP)", <https://predictioncenter.org/casp14/>
+More information is available from "Critical Assessment of protein Structure Prediction (CASP)", <https://predictioncenter.org/casp14/>
 
 See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. *Science* (New York, N.Y.) **379**(6637): 1123-1130, <https://doi.org/10.1126/science.ade2574>.
 </details>
