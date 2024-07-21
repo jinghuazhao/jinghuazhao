@@ -1,5 +1,3 @@
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
-
 # Hello, welcome!
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
@@ -42,3 +40,5 @@ Additional repositories can also be activated from [cambridge-ceu](https://raw.g
 ```
 
 </details>
+
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
