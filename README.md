@@ -12,10 +12,34 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 
 <script>
 function openImage(imgElement) {
-  alert("Image clicked!"); // Placeholder for now
+  // 1. Create Lightbox/Modal Elements
+  const modal = document.createElement('div');
+  modal.id = 'imageModal';
+  modal.style.position = 'fixed';
+  modal.style.top = '0';
+  modal.style.left = '0';
+  modal.style.width = '100%';
+  modal.style.height = '100%';
+  modal.style.backgroundColor = 'rgba(0, 0, 0, 0.8)'; // Semi-transparent background
+  modal.style.display = 'flex';
+  modal.style.alignItems = 'center';
+  modal.style.justifyContent = 'center';
+
+  const img = document.createElement('img');
+  img.src = imgElement.src;
+  img.style.maxWidth = '90%';
+  img.style.maxHeight = '90%';
+  modal.appendChild(img);
+
+  // 2. Close Functionality
+  modal.onclick = function() {
+    document.body.removeChild(modal);
+  };
+
+  // 3. Append to Body
+  document.body.appendChild(modal);
 }
 </script>
-
 <details> 
 <summary>SVG code</summary>
 
