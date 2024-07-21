@@ -1,14 +1,10 @@
 # Hello, welcome!
 
-I currently work on proteogenomic analysis[^t1091], whose generic features are collected for reproducible research.
+I currently work on proteogenomic analysis[^t1091], whose generic features are collected for reproducible research. Also included here is <a href="#cambridge-ceu">Cambridge-CEU Diagram</a>
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="left" height=280 width=280>
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
-
-<a href="#cambridge-ceu">Cambridge-CEU Diagram</a>
-
-<img id="cambridge-ceu" src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
 
 <div id="cambridge-ceu">
   <!-- Content related to the Cambridge-CEU diagram, including the image -->
