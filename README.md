@@ -6,9 +6,9 @@ I currently work on proteogenomic analysis[^t1091], whose generic features are c
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
-[cambridge-ceu diagram](#cambridg-ceu)
+<a href="#cambridge-ceu">Cambridge-CEU Diagram</a>
 
-<img src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
+<img id="cambridge-ceu" src="https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg?sanitize=true">
 
 <details> 
 <summary>SVG code</summary>
