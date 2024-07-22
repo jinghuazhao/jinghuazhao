@@ -37,7 +37,7 @@ See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level p
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="left" height=280 width=280>
 
-The sunflowr figure is from CCTV4 covering Baiyin, Gansu province, China.
+The sunflower figure is from CCTV4 covering Baiyin, Gansu province, China.
 
 </details>
 
