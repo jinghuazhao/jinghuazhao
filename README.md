@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-My repositories at workplace can also be activated from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg){:target="_blank"}.
+My repositories at workplace can also be activated from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
 
 <details>
 
