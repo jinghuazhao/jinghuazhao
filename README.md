@@ -1,7 +1,5 @@
 # Hello, welcome!
 
-My repositories at workplace can be accessed from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg), ![](mermaid-diagram-2024-07-20-224238.svg).
-
 <details>
 
 ```
@@ -40,5 +38,7 @@ See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level p
 The sunflower figure is from CCTV4 covering Baiyin, Gansu province, China.
 
 </details>
+
+My repositories at workplace can be accessed from [cambridge-ceu](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg), ![](mermaid-diagram-2024-07-20-224238.svg).
 
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" align="center" width=150 height=150>
