@@ -2,9 +2,9 @@
 
 I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
 
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
-
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" align="right" height=280 width=280>
+
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
 <details>
 The protein diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
