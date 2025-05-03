@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-I currently work on proteogenomic cellular data analysis through reproducible research.
+I currently work on proteogenomic & cellular data analysis through reproducible research.
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
