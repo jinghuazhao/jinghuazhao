@@ -1,6 +1,6 @@
 # Hello, welcome!
 
-I currently work on proteogenomic analysis, whose generic features are collected for reproducible research.
+I currently work on proteogenomic cellular data analysis through reproducible research.
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
@@ -22,6 +22,8 @@ More information is available from "Critical Assessment of protein Structure Pre
 See also Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model. *Science* (New York, N.Y.) **379**(6637): 1123-1130, <https://doi.org/10.1126/science.ade2574>.
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" height=280 width=280>
+
+Further related Eloff, K., Kalogeropoulos, K., Mabona, A. et al. InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments. Nat Mach Intell 7, 565–579 (2025). <https://doi.org/10.1038/s42256-025-01019-5>
 
 The sunflower figure is from CCTV4 covering Baiyin, Gansu province, China.
 
