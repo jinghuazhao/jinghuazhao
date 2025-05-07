@@ -3,9 +3,10 @@
 I currently work on proteogenomic & cellular data analysis through reproducible research.
 
 <details>
-## Repositories
 
-My repositories at workplace can be accessed from ![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
+## Workplace repositories
+
+They can be accessed from ![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
 
 ```
 @examples.svg
