@@ -1,4 +1,5 @@
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" width=100 height=100>
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" width=100 height=100 align="right">
+
 # Hello, welcome!
 
 I currently work on proteogenomic & cellular data analysis through reproducible research.
