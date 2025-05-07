@@ -2,8 +2,6 @@
 
 I currently work on proteogenomic & cellular data analysis through reproducible research.
 
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
-
 <details>
 The protein diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
 <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
@@ -38,5 +36,7 @@ My repositories at workplace can be accessed from ![<https://cambridge-ceu.githu
 ```
 
 </details>
+
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
 
 <img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" width=100 height=100>
