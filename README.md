@@ -1,6 +1,7 @@
 # Hello, welcome!
 
 I currently work on proteogenomic & cellular data analysis through reproducible research.
+<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" width=100 height=100>
 
 <details>
 
@@ -24,7 +25,7 @@ It is from CCTV4 covering Baiyin, Gansu province, China.
 
 ## Protein
 
-The diagram below is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
+The diagram is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
 <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
 
 ```bash
@@ -45,5 +46,3 @@ Further related Eloff, K., Kalogeropoulos, K., Mabona, A. et al. InstaNovo enabl
 </details>
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
-
-<img src="https://jinghuazhao.github.io/assets/images/qr-logo.svg" width=100 height=100>
