@@ -3,6 +3,8 @@
 I currently work on proteogenomic & cellular data analysis through reproducible research.
 
 <details>
+## Repositories
+
 My repositories at workplace can be accessed from ![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
 
 ```
@@ -13,11 +15,15 @@ My repositories at workplace can be accessed from ![<https://cambridge-ceu.githu
 @example.svg
 ```
 
+## Sunflower
+
+It is from CCTV4 covering Baiyin, Gansu province, China.
+
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" height=280 width=280>
 
-The sunflower figure is from CCTV4 covering Baiyin, Gansu province, China.
+## Protein
 
-The protein diagram below is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
+The diagram below is generated from Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589,
 <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
 
 ```bash
