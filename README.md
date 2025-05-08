@@ -8,7 +8,7 @@ I currently work on proteogenomic & cellular data analysis through reproducible 
 
 ## Workplace repositories
 
-They can be accessed from ![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg).
+![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg)
 
 ```
 @examples.svg
@@ -20,7 +20,7 @@ They can be accessed from ![<https://cambridge-ceu.github.io/>](https://raw.gith
 
 ## Sunflower
 
-It is from CCTV4 covering Baiyin, Gansu province, China.
+By CCTV4 covering Baiyin, Gansu province, China.
 
 <img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/gansubaiyin-circle.png" height=280 width=280>
 
