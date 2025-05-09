@@ -5,7 +5,7 @@
 I currently work on proteogenomic & cellular data analysis through reproducible research.
 
 <details>
-<summary><b>Additional information</b></summary>
+<summary><b>ADDITIONAL INFORMATION</b></summary>
 
 ## Workplace repositories
 
