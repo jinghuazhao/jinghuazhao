@@ -27,6 +27,8 @@ By CCTV4 covering Baiyin, Gansu province, China.
 
 ## Protein diagram
 
+<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
+
 Jumper, J., et al. (2021). Highly accurate protein structure prediction with AlphaFold. *Nature* **596**(7873): 583-589, <https://doi.org/10.1038/s41586-021-03819-2> (Suppl. video 4) with `ffmpeg` in a module.
 
 ```bash
@@ -45,5 +47,3 @@ Lin, Z., et al. (2023). Evolutionary-scale prediction of atomic-level protein st
 Eloff, K., Kalogeropoulos, K., Mabona, A. et al. InstaNovo enables diffusion-powered de novo peptide sequencing in large-scale proteomics experiments. Nat Mach Intell 7, 565–579 (2025). <https://doi.org/10.1038/s42256-025-01019-5>
 
 </details>
-
-<img src="https://github.com/jinghuazhao/jinghuazhao/blob/master/CASP14-t1091-text.gif" height=450 width=800>
