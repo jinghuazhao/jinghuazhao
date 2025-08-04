@@ -2,7 +2,7 @@
 
 # Hello, welcome!
 
-I currently work on proteogenomic & cellular data analysis through reproducible research.
+I have worked on genetic epidemiology, genomics, proteomics & cellular data through reproducible research.
 
 <details>
 <summary><b>ADDITIONAL INFORMATION</b></summary>
