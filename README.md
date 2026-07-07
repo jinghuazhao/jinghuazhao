@@ -9,7 +9,7 @@ I have worked on genetic epidemiology, genomics, proteomics & cellular data thro
 
 ## Workplace repositories
 
-![<https://cambridge-ceu.github.io/>](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg)
+[![Repository map](https://raw.githubusercontent.com/cambridge-ceu/.github/master/profile/mermaid-diagram-2024-07-20-224238.svg)](https://cambridge-ceu.github.io/)
 
 ```
 @examples.svg
