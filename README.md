@@ -3,9 +3,9 @@
 # Hello, welcome!
 
 I have worked on genetic epidemiology, genomics, proteomics & cellular data through reproducible research.
+The packages on [CRAN](https://cran.r-project.org) are beutifully organised through [r-universe](https://jinghuazhao.r-universe.dev/packages).
 
 <details>
-The packages on [CRAN](https://cran.r-project.org) are excellently organised through [r-universe](https://jinghuazhao.r-universe.dev/packages).
 
 <summary><b>ADDITIONAL INFORMATION</b></summary>
 
